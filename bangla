@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="BD",Bangladesh Television
+http://stream.wowzacdn.com/fh3rhr3j3/23998_hhs/btv.m3u8
 #EXTINF:0 tvg-id="ZeeBollywood.us" group-title="* BD",BTV WORLD
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="* BD",BTV CTG
