@@ -18,13 +18,13 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8?Live-TV™
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/300px-NTV_%28Bangladesh%29_logo.svg.png" group-title="BD",NTV
-http://10.16.100.245/hindi/ntv_1sT0p.m3u8
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/tVujSyj.jpg"" group-title="BD",Nagorik TV
 http://10.16.100.245/hindi/n@g0riktv_1st0p.m3u8
 
 #EXTINF:0 tvg-logo="https://ekattor.tv/image/catalog/Logo/ekattor-logo-new.png" group-title="BD",Ekattor TV
-https://rhridoy136.shortcm.li/ekattortv.m3u8
+http://103.130.112.222:8085/hls/Ekattor-TV/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.satv.tv/wp-content/uploads/2016/07/logo1.png" group-title="BD",SA TV
 http://10.16.100.245/hindi/s@tv_1st0p.m3u8
@@ -112,6 +112,9 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOt3yWAtiThOoaXP24ItdKCDw3z7N8N2Ad84-t4W35b7tpvpVl&usqp=CAU" group-title="BD",Bijoy TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://travelxptv.b-cdn.net/wp-content/uploads/2016/12/travelxp-crystal-logo.png" group-title="BD",TRAVEL XP
+http://live.flixhub.net/hls/travelxp.m3u8
 
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/s/31k6q9ajx36he7i/ananda-tv-bd.png" group-title="BD",ANANDA TV HD
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
