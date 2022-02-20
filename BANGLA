@@ -18,7 +18,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8?Live-TV™
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/300px-NTV_%28Bangladesh%29_logo.svg.png" group-title="BD",NTV
-https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
+http://10.16.100.245/hindi/ntv_1sT0p.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/tVujSyj.jpg"" group-title="BD",Nagorik TV
 http://10.16.100.245/hindi/n@g0riktv_1st0p.m3u8
@@ -89,6 +89,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/s/z9ca0b0m8zo4f4b/bangla-tv-bd.png" group-title="BD",BANGLA TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title=BD",GAAN BANGLA HD
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 
@@ -109,6 +110,9 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/Biswa-Bangla-24.png" group-title="BD",Biswa Bangla 24 TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/biswabanglatv.stream/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pngfind.com/pngs/m/162-1620250_asian-tv-bd-logo-hd-png-download.png" group-title="BD",Asian TV
+http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
 
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/06/alponatv.jpg" group-title="BD",Alpona IPTV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
