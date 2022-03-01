@@ -99,9 +99,6 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/270px-BIJOY_TV_Logo_BD.png" group-title="BD",Bijoy TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="BD",Mohona Tv
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
-
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOt3yWAtiThOoaXP24ItdKCDw3z7N8N2Ad84-t4W35b7tpvpVl&usqp=CAU" group-title="BD",Bijoy TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 
@@ -137,4 +134,4 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Zee_Cinema_New_Logo.png/200px-Zee_Cinema_New_Logo.png" group-title="INDIAN HINDI",ZEE CINEMA
-http://tv.ebox.live:8081/thunderbd/102/l_868074_1429198_223.ts?nimblesessionid=17275956&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIyIDM6MzM6MDMgUE0maGFzaF92YWx1ZT1ocjF0U2o5N3RSZzdxTzNyNUo2MERRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://103.170.140.8/hls/zeecinemahd.m3u8
